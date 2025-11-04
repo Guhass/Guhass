@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00cc66&center=true&vCenter=true&width=600&lines=Unity+Developer+from+Türkiye;C%23+Programmer+%7C+Game+Developer;Creating+Fun+Interactive+Experiences!+🚀)
 
-# 👋 Hi there, I’m **Hasan**  
+#  Hi there, I’m **Hasan**  
 🎮 *Game Developer from Türkiye*  
 
 I work with **C#** and **Unity** to bring my game ideas to life.  

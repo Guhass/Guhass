@@ -13,7 +13,6 @@ I work with **C#** and **Unity** to bring my game ideas to life.
 
 ### 🎮 What I Do  
 🎯 Designing and developing games in Unity using C#  
-🧩 Collaborating in teams and managing source control  
 🚀 Bringing gameplay ideas from concept to implementation (mechanics, scripting, asset integration)
 
 ---

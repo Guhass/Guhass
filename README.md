@@ -42,15 +42,6 @@ Open to collaborating on interesting game prototypes or tools, feel free to reac
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guhass&show_icons=true&theme=transparent&title_color=00cc66&text_color=00cc66&icon_color=00cc66&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=guhass&theme=transparent&border=00cc66&ring=00cc66&fire=00cc66&currStreakLabel=00cc66" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhass&theme=transparent&title_color=00cc66&text_color=00cc66&hide_border=false&layout=compact" />
-</p>
-
----
-
 ✨ Thanks for stopping by — I hope you find something here interesting.  
 Let’s make something great together! 🚀  
 

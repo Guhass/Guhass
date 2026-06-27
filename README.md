@@ -36,7 +36,7 @@ Open to collaborating on interesting game prototypes or tools, feel free to reac
 
 ---
 
-✨ Thanks for stopping by — I hope you find something here interesting.  
+✨ Thanks for stopping by, I hope you find something here interesting.  
 Let’s make something great together! 🚀  
 
 <!-- 🌿 Neon Green Animated Divider -->
@@ -44,7 +44,7 @@ Let’s make something great together! 🚀
 
 ---
 
-### 💬 *Keep coding, keep creating — every line brings a new world to life.* 🎮
+### 💬 *Keep coding, keep creating, every line brings a new world to life.* 🎮
 
 </div>
 
